@@ -5,7 +5,7 @@
 </a>
 <pre>
 @font-face {
-    font-family: 'BMHannaPro';
+    font-family: 'BMHannaAir';
     font-weight: normal;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/BMHannaAir/BMHannaAir.eot');
